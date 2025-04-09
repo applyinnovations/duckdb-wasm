@@ -26,6 +26,13 @@
 </div>
 <h1></h1>
 
+<div align="center">
+⚠️ This is a fork of <code>duckdb/duckdb-wasm</code>. Please see the original at https://github.com/duckdb/duckdb-wasm ⚠️ 
+</div>
+<br/>
+This repository provides WebAssembly variants to npm with extensions disabled for smaller binary sizes under different package names. <code>applyinnovations</code> is not affiliated with duckdb. All credit belongs to the original DuckDB project, please visit their repository and source packages directly from them! 
+<hr/>
+
 [DuckDB](https://duckdb.org) is an in-process SQL OLAP Database Management System.
 
 DuckDB-Wasm brings DuckDB to every browser thanks to WebAssembly.
